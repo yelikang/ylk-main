@@ -1,0 +1,3 @@
+[submodule "ylk-sub1"]
+	path = ylk-sub1
+	url = ../ylk-sub1.git
